@@ -1,7 +1,7 @@
-// o javascript não implmenta interface
+// o javascript não implementa interface
 
 // interface InterfaceCasoUso {
-//   execute(request): Promise<any>;
+//   execute(request);
 // }
 
-// module.exports = ICaseUseCreateUser;
+// module.exports = InterfaceCasoUso;
